@@ -4,7 +4,7 @@
     </a>
 </h1>
 
-# 💫About Me :
+# 💫About Me
 
 With seven years of thriving experience in project development, I bring a dynamic blend of expertise, dedication, and innovation to every endeavor. 
 </br>
