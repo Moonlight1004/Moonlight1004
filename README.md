@@ -64,12 +64,6 @@ One of the hallmarks of my approach is the emphasis on building lasting relation
 <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
 
-### **🗄️ Servers**
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
-
 ### **🎨 Design**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
